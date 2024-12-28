@@ -2,7 +2,6 @@
 
 Welcome to PiratesTV! Follow the instructions below to get the best experience using the OTT-Platforms Playlist.
 
-![Logo](https://i.ibb.co/KF7tMH3/Pirates-Tv-15.png)
 
 <p align="center">
   
@@ -19,24 +18,23 @@ Welcome to PiratesTV! Follow the instructions below to get the best experience u
 
 ## Authors
 
-- [@FunctionError](https://github.com/noobmaster403)
+- [@Eamin Talukdar](https://t.me/eamintalukdar)
 
 ### 📺 Join Us 👇
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://socials.piratestv.workers.dev/tg)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://socials.piratestv.workers.dev/discord)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eamintalukdar)
 
 ## Usage
 
 1. **Access Ott Platfrom playlist :**
    - Playlist link for NS Player: 👇
-     ```
-     https://raw.githubusercontent.com/FunctionError/ott-platforms/main/ns_player.m3u
-     ```
+     
+https://raw.githubusercontent.com/eaminvai/Toffee-Tsports/refs/heads/main/ns_player.m3u
+
    - Playlist link for Ott Navigator: 👇
-     ```
-     https://raw.githubusercontent.com/FunctionError/ott-platforms/main/ott_nav.m3u
-     ```
+     
+https://raw.githubusercontent.com/eaminvai/Toffee-Tsports/refs/heads/main/ott_nav.m3u
+
 
 2. **App Setup:**
    - Download the app from the provided link.

@@ -48,7 +48,7 @@ async function createNSPlayerM3U() {
     "link": channel.link,
     "logo": channel.logo,
     "origin": channel.link.split("/")[2],
-    "referrer": "PiratesTV",
+    "referrer": "ᗴᴀᴍɪɴ Lɪᴠᴇ ᵀⱽ",
     "userAgent": channel.userAgent || "",
     "cookie": channel.headers?.cookie || channel.headers.Cookie,
     "drmScheme": "",
@@ -59,7 +59,7 @@ async function createNSPlayerM3U() {
 
 async function createOTTNavM3U() {
   const channels = await getCombinedChannelData()
-  let ottNavData = "# This m3u presented by t.me/piratestv_updates\n# API from byte-capsule\n"
+  let ottNavData = "# This m3u presented by t.me/eamintalukdar\n# API from byte-capsule\n"
   channels.forEach((channel, i) => {
     ottNavData += `#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="${channel.logo}", ${channel.name}\n`
     ottNavData += `#EXTVLCOPT:http-user-agent=${channel.userAgent || ""}\n`

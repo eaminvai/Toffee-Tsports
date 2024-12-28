@@ -6,7 +6,7 @@ NS_PLAYER_URL = os.environ.get("NS_PLAYER_URL")
 OTT_NAV_URL = os.environ.get("OTT_NAV_URL")
 
 # Credit message
-CREDIT_MESSAGE = "# This m3u presented by t.me/piratestv_updates\n# API from byte-capsule\n"
+CREDIT_MESSAGE = "# This m3u presented by t.me/eamintalukdar\n# API from byte-capsule\n"
 
 def fetch_data(url):
     """Fetch data from the given URL."""
